@@ -1,0 +1,19 @@
+{
+  "name": "component_jumper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabechin/component_jumper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabechin/component_jumper/issues"
+  },
+  "homepage": "https://github.com/nabechin/component_jumper#readme"
+}
